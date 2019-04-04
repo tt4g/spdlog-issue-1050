@@ -1,0 +1,16 @@
+* text=auto eol=lf encoding=utf-8
+
+*.c text
+*.cc text
+*.cxx text
+*.cpp text
+*.c++ text
+*.hpp text
+*.h text
+*.h++ text
+*.hh text
+
+CMakeLists.txt text
+*.cmake text
+
+*.txt text
