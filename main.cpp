@@ -33,5 +33,7 @@ int main(int, char**) {
 
     std::cout << "after logger log" << std::endl;
 
+    spdlog::shutdown();
+
     return 0;
 }
